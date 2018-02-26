@@ -11,9 +11,11 @@ The AR feature is a general-purpose application, like the other features of the 
 ## How does it work?
 Quartz uses the native ARKit recently available on iOS to overlay specific models to the native camera view. This feature has already been available on iOS for several months, and while it currently does not appear to be available on Android, development will likely use ARCore, Google's Android-specific competitor to ARKit.
 
-## Why is this a good use of AR?
-
 ## Will the Quartz app cause motion sickness?
+No. The augmented reality feature, like other AR-only technologies, does not cause motion sickness in the way some VR applications will sometimes do.
+
+## Why is this a good use of AR?
+Virtual and augmented reality both give people the ability to experience otherwise inaccessible places and things up close. Oftentimes people who will keep up with the volume and scale of day-to-day news around the world are disconnected from faraway events, or cannot fully grasp the perspective of the subjects of these stories from reports alone. Being able to see, for instance, a rocket launch from the perspective of an onlooker, or the Berlin Wall as if they were standing in front of it, can humanize these stories and allow readers to gain a better understanding and sense of scale of the events surrounding them.
 
 ## What are other related applications? Are there other potential applications of the technology?
 
