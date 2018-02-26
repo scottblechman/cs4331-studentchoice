@@ -18,9 +18,14 @@ No. The augmented reality feature, like other AR-only technologies, does not cau
 Virtual and augmented reality both give people the ability to experience otherwise inaccessible places and things up close. Oftentimes people who will keep up with the volume and scale of day-to-day news around the world are disconnected from faraway events, or cannot fully grasp the perspective of the subjects of these stories from reports alone. Being able to see, for instance, a rocket launch from the perspective of an onlooker, or the Berlin Wall as if they were standing in front of it, can humanize these stories and allow readers to gain a better understanding and sense of scale of the events surrounding them.
 
 ## What are other related applications? Are there other potential applications of the technology?
+Other places have started to utilize AR as a storytelling mechanism. In the same way that Quartz uses AR as a tool to better tell stories of current events, the Washington Post recently added augmented reality to a series of historical stories it has prepared. The features uses augmented reality to show changes to real-world structures over time, guided by audio narration. Like Quartz, the Washington Post uses AR to connect readers to the stories they tell by 
 
 ## Conclusion
+Augmented reality has a great potential to 
 
 ## References
-Quartz app: https://qz.com/app/
-Quartz AR on iOS: http://www.niemanlab.org/2017/09/quartz-is-using-apples-new-ar-tech-to-help-people-understand-objects-in-the-news-on-iphones/
+“Quartz for iOS and Android.” Quartz, Quartz, https://qz.com/app/.
+
+Bilton, Ricardo. “Quartz is using Apple's new AR tech to "help people understand objects in the news" on iPhones.” Nieman Lab, Nieman Foundation, 19 Sept. 2017, www.niemanlab.org/2017/09/quartz-is-using-apples-new-ar-tech-to-help-people-understand-objects-in-the-news-on-iphones/.
+
+WashPostPR. “The Washington Post enhances in-App augmented reality experience.” The Washington Post, WP Company, 22 Sept. 2017, www.washingtonpost.com/pr/wp/2017/09/22/the-washington-post-enhances-in-app-augmented-reality-experience/?utm_term=.4527e8c26628.
