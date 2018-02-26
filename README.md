@@ -11,6 +11,14 @@ The AR feature is a general-purpose application, like the other features of the 
 ## How does it work?
 Quartz uses the native ARKit recently available on iOS to overlay specific models to the native camera view. This feature has already been available on iOS for several months, and while it currently does not appear to be available on Android, development will likely use ARCore, Google's Android-specific competitor to ARKit.
 
+## Why is this a good use of AR?
+
+## Will the Quartz app cause motion sickness?
+
+## What are other related applications? Are there other potential applications of the technology?
+
+## Conclusion
+
 ## References
 Quartz app: https://qz.com/app/
 Quartz AR on iOS: http://www.niemanlab.org/2017/09/quartz-is-using-apples-new-ar-tech-to-help-people-understand-objects-in-the-news-on-iphones/
