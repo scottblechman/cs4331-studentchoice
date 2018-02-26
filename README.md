@@ -18,10 +18,10 @@ No. The augmented reality feature, like other AR-only technologies, does not cau
 Virtual and augmented reality both give people the ability to experience otherwise inaccessible places and things up close. Oftentimes people who will keep up with the volume and scale of day-to-day news around the world are disconnected from faraway events, or cannot fully grasp the perspective of the subjects of these stories from reports alone. Being able to see, for instance, a rocket launch from the perspective of an onlooker, or the Berlin Wall as if they were standing in front of it, can humanize these stories and allow readers to gain a better understanding and sense of scale of the events surrounding them.
 
 ## What are other related applications? Are there other potential applications of the technology?
-Other places have started to utilize AR as a storytelling mechanism. In the same way that Quartz uses AR as a tool to better tell stories of current events, the Washington Post recently added augmented reality to a series of historical stories it has prepared. The features uses augmented reality to show changes to real-world structures over time, guided by audio narration. Like Quartz, the Washington Post uses AR to connect readers to the stories they tell by 
+Other places have started to utilize AR as a storytelling mechanism. In the same way that Quartz uses AR as a tool to better tell stories of current events, the Washington Post recently added augmented reality to a series of historical stories it has prepared. The features uses augmented reality to show changes to real-world structures over time, guided by audio narration. Like Quartz, the Washington Post uses AR to connect readers to the stories they tell by bringing the world of the story directly to the user, instead of the other way around.
 
 ## Conclusion
-Augmented reality has a great potential to 
+Augmented reality has a great potential to connect people to the world around them in ways that couldn't be done before. People can experience places and events in a firsthand and lifelike way and can imagine themselves alongside something as it unfolds. Using Quartz to experience news topics in this hands-on way has given me new perspectives, and I hope to continue using it and applications like it as they expand their capabilities.
 
 ## References
 “Quartz for iOS and Android.” Quartz, Quartz, https://qz.com/app/.
